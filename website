@@ -1,1 +1,8 @@
 <html>
+ <head>
+ <title>My website </title>
+ </head>
+ <body>
+    <h1 style="color:blue;font-size:50px;text-align:center;">MY WEBSTE</h1>
+ </body>
+</html>
